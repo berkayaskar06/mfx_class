@@ -2,6 +2,7 @@ cmake_minimum_required( VERSION 3.6 )
 project(mfx)
 
 include(CMakeDependentOption)
+include_directories("/home/berkay/Desktop/main_msdk/mfx_decode_post_process/decode_vpp/include/")
 
 set (MSDK_PATH "/home/berkay/Downloads/mediasdk_installation/MediaSDK")
 set( CMAKE_EXPORT_COMPILE_COMMANDS ON)

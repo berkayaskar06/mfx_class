@@ -1,0 +1,8 @@
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/CMakeFiles/edit_cache.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/CMakeFiles/rebuild_cache.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/common/CMakeFiles/tutorials_common.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/common/CMakeFiles/edit_cache.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/common/CMakeFiles/rebuild_cache.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/decode_vpp/CMakeFiles/decode_vpp.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/decode_vpp/CMakeFiles/edit_cache.dir
+/home/berkay/Desktop/main_msdk/mfx_decode_post_process/build/decode_vpp/CMakeFiles/rebuild_cache.dir

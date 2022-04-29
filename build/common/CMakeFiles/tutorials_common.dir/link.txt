@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../__lib/release/libtutorials_common.a CMakeFiles/tutorials_common.dir/cmd_options.cpp.o CMakeFiles/tutorials_common.dir/common_utils.cpp.o CMakeFiles/tutorials_common.dir/common_utils_linux.cpp.o CMakeFiles/tutorials_common.dir/common_vaapi.cpp.o
+/usr/bin/ranlib ../__lib/release/libtutorials_common.a
